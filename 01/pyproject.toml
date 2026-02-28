@@ -1,0 +1,10 @@
+[project]
+name = "w2l2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.14.4",
+    "ollama>=0.6.1",
+]
